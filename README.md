@@ -1,2 +1,2 @@
 # Clustering_Model
-Clustering Model with EDA done precisely
+Customer Segmentation done with Clustering Model alongwith EDA done precisely
